@@ -189,7 +189,7 @@ cd frontend && npm test
 2. Env: `NEXT_PUBLIC_API_URL` (Render URL + `/api/v1`), `BACKEND_URL`, `AUTH_SECRET`, `AUTH_TRUST_HOST=true`.
 3. Deploy.
 
-**Deployed demo link:** _add your live URL here after deploying_
+**Deployed demo link:** https://campus-intelligence-dashboard-ai.vercel.app
 
 ---
 
