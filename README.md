@@ -195,11 +195,14 @@ cd frontend && npm test
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
 
-- `docs/screenshots/dashboard.png`
-- `docs/screenshots/chat.png`
-- `docs/screenshots/admin-analytics.png`
+### AI Assistant
+![AI Assistant](docs/screenshots/chat.png)
+
+### Admin Analytics
+![Admin Analytics](docs/screenshots/admin-analytics.png)
 
 ## 🔭 Future Improvements
 
