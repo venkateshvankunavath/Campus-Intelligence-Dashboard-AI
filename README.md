@@ -195,12 +195,11 @@ cd frontend && npm test
 
 ## 📸 Screenshots
 
-_Add screenshots after running locally:_
+## 📸 Screenshots
+
 - `docs/screenshots/dashboard.png`
 - `docs/screenshots/chat.png`
 - `docs/screenshots/admin-analytics.png`
-
----
 
 ## 🔭 Future Improvements
 
